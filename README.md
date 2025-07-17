@@ -30,5 +30,3 @@ Chaque projet est contenu dans un dossier dédié avec les notebooks, données (
 *Ce repository est en évolution au fil de ma formation et de mes projets.*
 
 ---
-
-N’hésite pas à me dire si tu souhaites un README plus détaillé avec exemples de code, ou une version adaptée pour une page GitHub.
